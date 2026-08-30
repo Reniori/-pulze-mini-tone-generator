@@ -1,4 +1,4 @@
-"""Pulze Mini Tone Generator — public fork (device-factory defaults).
+"""Pulze Tone Generator — public fork (device-factory defaults).
 
 
 preset_writer.py — Recipe → .prst bytes  (v0.11)

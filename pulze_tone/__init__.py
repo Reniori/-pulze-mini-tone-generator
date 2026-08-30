@@ -1,4 +1,4 @@
-"""Pulze Mini Tone Generator — generate Hotone Pulze / Pulze Mini .prst presets.
+"""Pulze Tone Generator — generate Hotone Pulze / Pulze Mini .prst presets.
 
 Public API:
     build_preset(recipe: dict) -> bytes      recipe dict -> .prst file bytes
