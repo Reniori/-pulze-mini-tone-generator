@@ -1,4 +1,4 @@
-# Pulze Mini Tone Generator
+# Hotone Pulze Tone Generator
 
 Generate **Hotone Pulze / Pulze Mini / Pulze Jr** guitar tones as `.prst` preset files from a JSON
 spec or a Python dict — or, the way this is meant to be used, conversationally: through
